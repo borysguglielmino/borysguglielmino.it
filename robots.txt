@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://borysguglielmino.it/sitemap.xml
